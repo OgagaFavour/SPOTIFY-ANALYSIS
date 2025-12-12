@@ -13,8 +13,8 @@ Spotify is one of the world’s leading music streaming platforms, where underst
 ---
 
 ## Data Description  
-- **Source:** Spotify streaming statistics (2020–2022)  
-- **Period covered:** 2020–2021 and 2021–2022 listening data  
+- **Source:** Spotify streaming statistics (2010–2023)  
+- **Period covered:** 2010–2023 listening data  
 - **Key fields:** Track name, artist, album, genre, streams, skips, repeats, playlist adds, user demographics (age, region)  
 - **Size of dataset:** 1M+ streams across thousands of tracks and playlists  
 
